@@ -1,6 +1,6 @@
 ---
 name: design-course
-description: Course architecture: turns a `find-course-idea` handoff into goals → tasks → simulations → course.
+description: "Course architecture: turns a find-course-idea handoff into goals, tasks, simulations, and a sequenced course."
 ---
 
 # BeSavvy Course Architect
